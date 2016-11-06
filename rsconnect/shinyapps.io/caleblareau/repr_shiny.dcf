@@ -1,0 +1,10 @@
+name: repr_shiny
+title:
+account: caleblareau
+server: shinyapps.io
+appId: 136072
+bundleId: 607177
+url: https://caleblareau.shinyapps.io/repr_shiny/
+when: 1478466236.13576
+asMultiple: FALSE
+asStatic: FALSE
